@@ -21,6 +21,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--headings-text);
+  text-decoration: none;
 }
 
 .highlited-text {
