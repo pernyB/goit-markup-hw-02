@@ -24,6 +24,10 @@ body {
   color: var(--headings-text);
 }
 
+.list {
+  list-style-type: none;
+}
+
 .highlited-text {
   color: #4D5AE5;
 }
